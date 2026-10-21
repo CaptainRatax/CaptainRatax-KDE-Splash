@@ -1,0 +1,17 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "com.captainratax.splash",
+    "Name": "CaptainRatax Splash",
+    "Description": "Minimal KDE Plasma 6 session splash with CaptainRatax logo and animated green spinner over a custom wallpaper.",
+    "Version": "1.0.0",
+    "Category": "Plasma Look And Feel",
+    "Authors": [
+      {
+        "Name": "CaptainRatax"
+      }
+    ],
+    "License": "LicenseRef-Proprietary"
+  },
+  "X-Plasma-API-Minimum-Version": "6.0"
+}
